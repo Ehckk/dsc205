@@ -1,0 +1,50 @@
+Date,Event Description,AM Peak - Late,AM Peak - Canceled,AM Peak - Terminated,PM Peak - Late,PM Peak - Canceled,PM Peak - Terminated,Off Peak - Late,Off Peak - Canceled,Off Peak - Terminated
+07/18/2022,Rainstorm resulted in flooding that impacted PM rush,,,,,,,1,1,64
+08/02/2022,Police activity in the vicinity of Bronxville Staton the Harlem Line,,,,,,,1,1,64
+08/03/2022,A trespasser strike at Cos Cob station on the New Haven Line,,,,,,,0,0,13
+08/14/2022,Customer injury at Garrison Station on the Hudson Line,,,,,,,0,0,26
+08/15/2022,"A train with mechanical issue at Harlem , 125  Steet Sation, impacted trains arriving and departing  Grand Central Terminal",,,,,,,0,0,0
+08/22/2022,A Trespasser incident in the vicinity of  Melrose Tunnel on the Harlem Line,,,,,,,0,1,31
+09/01/2022,Grade Crossing Stop & Warn at Lakeview Ave & Cleveland St.,,,,,,,0,0,12
+09/06/2022,"Police activity due to a trespasser strike near Woodlawn Station,",,,,,,,0,1,17
+09/18/2022,Police activity due to a trespasser strike near Williams Bridge Station.,,,,,,,0,1,18
+09/23/2022,Mechanical and Track damage issues at New Haven Yard,,,,,,,7,0,26
+09/26/2022,"Due to windy condition, tree fell on tracks at Cold Spring",,,,,,,0,0,14
+09/28/2022,Police activity due to a trespasser strike at Rye Station,,,,,,,0,4,26
+10/06/2022,"A trespasser incident in the vicinity of Wakefield Station, trespassers trying to climb on a substation",,,,,,,0,0,51
+10/10/2022,"A track switch failure on Hudson line, impacted PM Rush",,,,,,,6,0,21
+10/14/2022,"A tree fell on the tracks,  resulted in damages,  which impacted service on the New Canaan branch from 10/14 to 10/16",,,,,,,1,0,22
+10/17/2022,"A train with mechanical issue, resulted in track damage at Vernon Yard",,,,,,,1,0,19
+10/28/2022,"A trespasser on track area at 68th Street, impacted trains  arriving and departing  Grand Central Terminal",,,,,,,17,3,108
+10/31/2022,A train with mechanical issue  lost power in Park Avenue tunnel,,,,,,,0,0,22
+11/04/2022,Speed reduced due to slippery rail condition,,,,,,,0,0,16
+11/12/2022,Trains made extra stops on the Hudsaon line to accomdate customers attending NCAA Cortaca Jug football game,,,,,,,0,0,12
+11/30/2022,"Due to rain and high wind, speed restriction was put in place on the New Haven Line",,,,,,,0,0,14
+12/19/2022,Due to a utility electrical fire at Mount Vernon East,,,,,,,20,0,67
+12/23/2022,Winter storm Elliott disrupted service system wide,,,,,,,5,2,83
+01/29/2023,"A trespasser incident, in the vicinity of Melrose in the Bronx resulted in disruption of morning service",104,19,2,0,0,0,20,1,0
+02/09/2023,"A train with mechanical issue at Harlem , 125  Steet Sation, impacted trains arriving and departing  Grand Central Terminal",0,0,0,21,0,1,12,0,0
+02/17/2023,Residual delays of trains arriving and departing GCT due to speed restriction that was put in place to fix a track defect,0,0,0,51,0,0,52,0,0
+03/04/2023,"A large tree fell on overhead wires, resulted in 41 late trains on the New Haven Line",0,0,0,0,0,0,41,1,1
+03/16/2023,"A smoldering conditions impacted trains arriving and departing Grand Central, this incident led to 40 late trains",39,0,0,0,0,0,1,0,0
+03/31/2023,"A CSX freight train derailed, operating on MNR’s Hudson Line territory, it resulted in severe track damages",36,1,0,0,0,0,0,0,0
+04/01/2023,To facilitate track repair from CSX freight derailment (on 3/31/) extented track outage was required which impacted service in April,19,0,0,14,1,0,67,0,0
+04/13/2023,"Extreme temperature fluctuation, from record high temperature caused a signal to fail which impacted trains in and out GCT",0,0,0,74,34,1,68,12,2
+04/20/2023,A power outage at Grand Central Terminal impacted arriving and departing train service,63,0,0,0,0,0,1,0,0
+04/27/2023,"During morning rush, unattended bag on train resulted in police activity",12,0,0,0,0,0,0,0,0
+05/04/2023,Repairs on New Haven Line Track causing trains to be on hold and delayed,0,0,0,7,0,0,6,0,0
+05/19/2023,A switch failure on Harlem Line causing multiple trains to be rerouted and resulted in delays,0,0,0,8,0,1,5,0,0
+06/02/2023,Trespasser strike at Commerce Street crossing at Valhalla disrupted evening rush hour service,0,0,0,16,3,2,16,0,1
+06/06/2023,Signal issue delayed trains coming into GCT,21,0,0,0,0,0,1,0,0
+06/10/2023,"A bridge strike on the New Haven Line, near Greenwich, caused service disruptions",1,0,0,0,0,0,11,0,0
+06/14/2023,an overhead grounded wire caused by the failure of underground feeders resulted in a reduction in operating power,0,0,0,1,0,0,10,0,0
+06/14/2023,A disabled AMTRAK train at Greenwich disrupted morning rush hour service,14,0,0,0,0,0,1,0,0
+06/20/2023,Signal issue at GCT lower level disrupted morning rush hour services,47,0,0,0,0,0,4,0,0
+07/03/2023,Tree down across tracks near Katonah delayed trains on the Harlem Line,0,0,0,5,0,12,16,4,0
+07/06/2023,Switch Failures caused by heatwave at multiple locations causing delays on all three lines,0,0,0,31,0,0,38,0,0
+07/09/2023,"Heavy storm caused flooding on the upper Hudson and Harlem Line, resulted in suspension of service in those areas",1,0,0,3,0,0,7,5,11
+07/25/2023,Water and debris on tracks disrupted afternoon rush hour services,0,0,0,6,0,0,8,0,0
+07/27/2023,Tree down across tracks near Hudson Avenue crossing delayed trains on the Harlem Line,0,0,0,5,0,0,5,0,0
+07/29/2023,Signal issue delayed late night trains on the New Haven Line,0,0,0,0,0,0,13,0,0
+08/17/2023,Trespasser strike south of Woodlawn delayed trains coming in and out of GCT,0,0,0,2,0,0,23,1,0
+08/23/2023,Dog on track halted trains on the Harlem Line,11,0,0,0,0,0,0,0,0

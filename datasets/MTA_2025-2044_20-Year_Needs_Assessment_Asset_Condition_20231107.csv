@@ -1,0 +1,452 @@
+Agency,Asset Category,Asset,Asset Sub-Category/Components,Total,Units,Condition Criteria,Condition Criteria Percent
+NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Roof,15,Each,Percent in Poor/Marginal Condition,0.47
+NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),HVAC,15,Each,Percent in Poor/Marginal Condition,0.47
+NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Exterior,15,Each,Percent in Poor/Marginal Condition,0.33
+NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Building Structure,15,Each,Percent in Poor/Marginal Condition,0.73
+NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Electrical,15,Each,Percent in Poor/Marginal Condition,0.33
+NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Elevators,8,Each,Percent in Poor/Marginal Condition,0.63
+NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Employee Facilities,15,Each,Percent in Poor/Marginal Condition,0.8
+NYCT,Shops and yards,Railcar Maintenance Shops (15 Shops),Heavy Shop Equipment,41,Each,Percent in Poor/Marginal Condition,0.1
+NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Roof,15,Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",HVAC,15,Each,Percent in Poor/Marginal Condition,0.67
+NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Exterior,15,Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Building Structure,15,Each,Percent in Poor/Marginal Condition,0.73
+NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Electrical,15,Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Elevators,12,Each,Percent in Poor/Marginal Condition,1
+NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Employee Facilities,15,Each,Percent in Poor/Marginal Condition,0.47
+NYCT,Shops and yards,"Railcar Overhaul Shops (2 Overhaul Complexes, 15 Sub-shops)",Heavy Shop Equipment,246,Each,Percent in Poor/Marginal Condition,0.36
+NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),CCTV,2,Each,Percent in Poor/Marginal Condition,0.5
+NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Fencing,24,Each,Percent in Poor/Marginal Condition,0
+NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Hydrants,24,Each,Percent in Poor/Marginal Condition,0.08
+NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Lighting,24,Each,Percent in Poor/Marginal Condition,0.5
+NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Yard Track,102,Miles,Percent in Poor/Marginal Condition,0.25
+NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Yard Signal,23,Each,Percent in Poor/Marginal Condition,0.42
+NYCT,Shops and yards,Rail Storage Yards (24 Rail Yards),Yard Switch,874,Each,Percent in Poor/Marginal Condition,0.19
+NYCT,Shops and yards,Car Washer (8 Car Washers),Enclosures,8,Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Shops and yards,Car Washer (8 Car Washers),Equipment,8,Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Shops and yards,Car Washer (8 Car Washers),Lighting,8,Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Shops and yards,Car Washer (8 Car Washers),Electrical,8,Each,Percent in Poor/Marginal Condition,0
+NYCT,Shops and yards,Car Washer (8 Car Washers),Plumbing and Drain,8,Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Shops and yards,Maintenance Support Shops,Roof,29,Each,Percent in Poor/Marginal Condition,0.69
+NYCT,Shops and yards,Maintenance Support Shops,HVAC,29,Each,Percent in Poor/Marginal Condition,0.48
+NYCT,Shops and yards,Maintenance Support Shops,Exterior,29,Each,Percent in Poor/Marginal Condition,0.48
+NYCT,Shops and yards,Maintenance Support Shops,Building Structure,29,Each,Percent in Poor/Marginal Condition,0.38
+NYCT,Shops and yards,Maintenance Support Shops,Electrical,29,Each,Percent in Poor/Marginal Condition,0.55
+NYCT,Shops and yards,Maintenance Support Shops,Employee Facilities,29,Each,Percent in Poor/Marginal Condition,0.45
+NYCT,Shops and yards,Maintenance Support Shops,Heavy Shop Equipment,29,Each,Percent in Poor/Marginal Condition,0.31
+NYCT,Shops and yards,SIR Maintenance Shops,Overall Rating,2,Each,Percent in Poor/Marginal Condition,0.5
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Roof,38,Each,Percent in Poor/Marginal Condition,0.29
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Boiler,38,Each,Percent in Poor/Marginal Condition,0.21
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Air Curtain,31,Each,Percent in Poor/Marginal Condition,0.26
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Ventilation,38,Each,Percent in Poor/Marginal Condition,0.42
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Architectural/Structural,38,Each,Percent in Poor/Marginal Condition,0.24
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Electrical,38,Each,Percent in Poor/Marginal Condition,0.37
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Lighting,38,Each,Percent in Poor/Marginal Condition,0.26
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Elevator,19,Each,Percent in Poor/Marginal Condition,0.16
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Employee Facilities,38,Each,Percent in Poor/Marginal Condition,0.39
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Admin Office,38,Each,Percent in Poor/Marginal Condition,0.45
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Emergency Generators,31,Each,Percent in Poor/Marginal Condition,0.42
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Fire Alarm and Suppression,38,Each,Percent in Poor/Marginal Condition,0.21
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,Bus Wash,29,Each,Percent in Poor/Marginal Condition,0.07
+NYCT,Depot and bus maintenance facilities,Depot and bus maintenance facilities,All Rated Bus Depot/Facility Components,452,Each,Percent in Poor/Marginal Condition,0.31
+NYCT,Station Structures and Components,Station Structures and Components,Platform Canopies,436,Each,Percent in Poor/Marginal Condition,0.08
+NYCT,Station Structures and Components,Station Structures and Components,"Mezzanine Floors, Columns, Walls, and Ceilings","3,246",Each,Percent in Poor/Marginal Condition,0.1
+NYCT,Station Structures and Components,Station Structures and Components,Platform Edges,"1,198",Each,Percent in Poor/Marginal Condition,0.36
+NYCT,Station Structures and Components,Station Structures and Components,"Platform Floors, Columns, Walls, and Ceilings","3,276",Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Station Structures and Components,Station Structures and Components,Stairways,"5,502",Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Station Structures and Components,Station Structures and Components,Passive Ventilation Systems,"2,425",Each,Percent in Poor/Marginal Condition,0.39
+NYCT,Station Structures and Components,Station Structures and Components,Windscreens (above-ground station platform fencing),214,Each,Percent in Poor/Marginal Condition,0.21
+NYCT,Station Structures and Components,Station Structures and Components,Electrical Distribution Rooms,916,Each,Percent in Poor/Marginal Condition,0.15
+NYCT,"Accessibility, Elevators, and Escalators","Accessibility, Elevators, and Escalators",Elevator - Hydraulic,246,Each,Percent in Poor/Marginal Condition,0
+NYCT,"Accessibility, Elevators, and Escalators","Accessibility, Elevators, and Escalators",Elevator - Traction,60,Each,Percent in Poor/Marginal Condition,0
+NYCT,"Accessibility, Elevators, and Escalators","Accessibility, Elevators, and Escalators",Escalator,231,Each,Percent in Poor/Marginal Condition,0.06
+NYCT,Station Communication Systems,Station Communication Systems,Public Address/Customer Information Screens,472,Each,Percent in Poor/Marginal Condition,0.52
+NYCT,Station Communication Systems,Station Communication Systems,Help Points,"1,886",Each,Percent in Poor/Marginal Condition,0.01
+NYCT,Station Communication Systems,Station Communication Systems,ADA Farecard Access System,278,Each,Percent in Poor/Marginal Condition,0
+NYCT,Station Communication Systems,Station Communication Systems,Fare Collection Vending Machines (transitioning to configurable vending machines and changing quantity for OMNY cards),"1,720",Each,Percent in Poor/Marginal Condition,0
+NYCT,Station Communication Systems,Station Communication Systems,Fare Collection Electronic Turnstiles,"4,461",Each,Percent in Poor/Marginal Condition,0
+NYCT,Station Communication Systems,Station Communication Systems,Emergency Booth Communication System,478,Each,Percent in Poor/Marginal Condition,0
+NYCT,Station Communication Systems,Station Communication Systems,"NYCT Station CCTV (cameras, monitors, and recorders for emergency alarm, passenger ID, police security, platform edge, and crowd control)","11,210",Each,Percent in Poor/Marginal Condition,0.55
+NYCT,Station Communication Systems,Station Communication Systems,SIR Station CCTV,406,Each,Percent in Poor/Marginal Condition,1
+NYCT,Line structures,Line structures,Elevated,61,Miles,Percentage of Miles with High Defect Concentration,0.08
+NYCT,Line structures,Line structures,Viaduct,9.3,Miles,Percentage of Miles with High Defect Concentration,0.58
+NYCT,Line structures,Line structures,Open Cut,10.6,Miles,Percentage of Miles with High Defect Concentration,0.05
+NYCT,Line structures,Line structures,Subway,155.4,Miles,Percentage of Miles with High Defect Concentration,0.29
+NYCT,Line structures,Line structures,Embankment,15.2,Miles,Percentage of Miles with High Defect Concentration,0.02
+NYCT,Line structures,Staten Island Railway,At-Grade,12,Miles,Percent in Poor/Marginal Condition,0.83
+NYCT,Line structures,Staten Island Railway,Bridge,0.4,Miles,Percent in Poor/Marginal Condition,0.24
+NYCT,Line structures,Staten Island Railway,Elevated,1.1,Miles,Percent in Poor/Marginal Condition,1
+NYCT,Line structures,Staten Island Railway,Open Cut,1,Miles,Percent in Poor/Marginal Condition,0
+NYCT,Line structures,Staten Island Railway,Tunnel,0.2,Miles,Percent in Poor/Marginal Condition,1
+NYCT,Line structures,Staten Island Railway,Fencing,27,Miles,Percent in Poor/Marginal Condition,0.08
+NYCT,Line structures,Elevated steel structure paint status,Elevated steel structure paint status,11.3,Miles,Percent in Poor/Marginal Condition,0.18
+NYCT,Line structures,Elevated steel structure paint status,Elevated steel structure paint status,31.2,Miles,Percent in Good Condition,0.49
+NYCT,Line structures,Elevated steel structure paint status,Elevated steel structure paint status,20.8,Miles,Percent Under Construction,0.33
+NYCT,Track,Track,Mainline Revenue,665,Miles,Percent with Remaining Life Less Than 6 Years,0.11
+NYCT,Track,Track,Non-Revenue,39,Miles,Percent with Remaining Life Less Than 6 Years,0.12
+NYCT,Track,Track,Yard,102,Miles,Percent with Remaining Life Less Than 6 Years,0.13
+NYCT,Track,Track,Mainline Switches,"1,770",Each,Percent with Remaining Life Less Than 6 Years,0.16
+NYCT,Track,Track,Yard Switches,874,Each,Percent with Remaining Life Less Than 6 Years,0.11
+NYCT,Track,Track,SIR - Mainline,29,Miles,Percent with Remaining Life Less Than 6 Years,0.07
+NYCT,Track,Track,SIR - Non-Revenue,3,Miles,Percent with Remaining Life Less Than 6 Years,0.11
+NYCT,Track,Track,SIR - Switches,62,Each,Percent with Remaining Life Less Than 6 Years,0.13
+NYCT,Signals and train control,Signals and train control,Mainline Signals,763,Miles,Percent in Poor/Marginal Condition,0.24
+NYCT,Signals and train control,Signals and train control,Mainline Interlockings,183,Each,Percent in Poor/Marginal Condition,0.23
+NYCT,Signals and train control,Signals and train control,Yard Signals,23,Each,Percent in Poor/Marginal Condition,0.43
+NYCT,Signals and train control,Signals and train control,Yard Interlockings,20,Each,Percent in Poor/Marginal Condition,0.3
+NYCT,Signals and train control,Signals and train control,SIR - Signals,31,Miles,Percent in Poor/Marginal Condition,0.03
+NYCT,Signals and train control,Signals and train control,SIR - Interlockings,14,Each,Percent in Poor/Marginal Condition,0.07
+NYCT,Signals and train control,Signals and train control,Modernized signaling status,529,Miles,Conventional Fixed Block,0.69
+NYCT,Signals and train control,Signals and train control,Modernized signaling status,52,Miles,Modernization complete,0.07
+NYCT,Signals and train control,Signals and train control,Modernized signaling status,182,Miles,In Construction or to be Awarded by 2024,0.24
+NYCT,Traction power,Substation,Overall,224,Each,Percent in Poor/Marginal Condition,0.36
+NYCT,Traction power,Substation,Transformers,392,Each,Percent in Poor/Marginal Condition,0.15
+NYCT,Traction power,Substation,Rectifiers,394,Each,Percent in Poor/Marginal Condition,0.13
+NYCT,Traction power,Substation,HT Switchgear,393,Each,Percent in Poor/Marginal Condition,0.25
+NYCT,Traction power,Substation,DC Feeder Breakers,"1,461",Each,Percent in Poor/Marginal Condition,0.18
+NYCT,Traction power,Substation,Structural Elements,224,Each,Percent in Poor/Marginal Condition,0.26
+NYCT,Traction power,Circuit Breaker Houses,Overall,317,Each,Percent in Poor/Marginal Condition,0.27
+NYCT,Traction power,Circuit Breaker Houses,Breakers,"1,802",Each,Percent in Poor/Marginal Condition,0.3
+NYCT,Traction power,Traction power,SCADA System Control Zones,93,Each,Percent in Poor/Marginal Condition,0.34
+NYCT,Traction power,Traction power,Emergency Alarm/Emergency Telephone,"2,627",Each,Percent in Poor/Marginal Condition,0.26
+NYCT,Traction power,Traction power,SIR - Substations,9,Each,Percent in Poor/Marginal Condition,0.11
+NYCT,Traction power,Traction power,SIR - Substation Components,119,Each,Percent in Poor/Marginal Condition,0.45
+NYCT,Traction power,Traction power,SIR - Circuit Breaker Houses,4,Each,Percent in Poor/Marginal Condition,1
+NYCT,Traction power,Traction power,SIR - Circuit Breaker House Breakers,13,Each,Percent in Poor/Marginal Condition,1
+NYCT,Line equipment,Line equipment,Deep Wells,23,Each,Percent in Poor/Marginal Condition,0
+NYCT,Line equipment,Line equipment,Fan Plants,209,Each,Percent in Poor/Marginal Condition,0.29
+NYCT,Line equipment,Line equipment,Pump Rooms (ROW),254,Each,Percent in Poor/Marginal Condition,0.11
+NYCT,Line equipment,Line equipment,Tunnel Lighting,440,Miles,Percent in Poor/Marginal Condition,0.04
+NYCT,Communication infrastructure and systems,Backbone communication infrastructure,Fiber Cable,896,Miles,Percent in Poor/Marginal Condition,0.82
+NYCT,Communication infrastructure and systems,Backbone communication infrastructure,Fiber Nodes (support transmission equipment),85,Each,Percent in Poor/Marginal Condition,0.37
+NYCT,Communication infrastructure and systems,Backbone communication infrastructure,Fiber Rings (supporting critical functions composed of interconnected nodes),7,Each,Percent in Poor/Marginal Condition,0.43
+NYCT,Communication infrastructure and systems,Backbone communication infrastructure,Antenna Cable,200,Miles,Percent in Poor/Marginal Condition,0.21
+NYCT,Communication infrastructure and systems,Backbone communication infrastructure,Copper Cable,561,Miles,Percent in Poor/Marginal Condition,0.65
+NYCT,Communication infrastructure and systems,Backbone communication infrastructure,UHF/VHF Radio Equipment,464,Each,Percent in Poor/Marginal Condition,0.69
+NYCT,Communication infrastructure and systems,Backbone communication infrastructure,SIR - Fiber Optic Cable,145,Miles,Percent in Poor/Marginal Condition,0.11
+NYCT,Communication infrastructure and systems,Secondary communication infrastructure,Communication Rooms,478,Each,Percent in Poor/Marginal Condition,0.27
+NYCT,Communication infrastructure and systems,Secondary communication infrastructure,Passenger Station Local Area Network (PSLAN),472,Each,Percent in Poor/Marginal Condition,0.46
+NYCT,Communication infrastructure and systems,Secondary communication infrastructure,Connection Oriented Ethernet (COE),1,System,Percent in Poor/Marginal Condition,0
+NYCT,Communication infrastructure and systems,Secondary communication infrastructure,Private Branch Exchange,8,Each,Percent in Poor/Marginal Condition,0
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Ballast Regulator,4,Each,Percent Beyond Useful Life,0.5
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Crane Car-1 Ton,17,Each,Percent Beyond Useful Life,0.29
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Crane Car-10 Ton,9,Each,Percent Beyond Useful Life,0
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Crane Car-3 Ton,12,Each,Percent Beyond Useful Life,0
+NYCT,Work trains and service vehicles,Work trains and service vehicles,CWR Car,32,Each,Percent Beyond Useful Life,0.5
+NYCT,Work trains and service vehicles,Work trains and service vehicles,De-Icer Car,8,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Flat Car,243,Each,Percent Beyond Useful Life,0.31
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Hopper Car,28,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Hose and Reach Car,9,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,"Locomotive, Diesel",100,Each,Percent Beyond Useful Life,0.17
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Pump Car,9,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Pump Flat Car,2,Each,Percent Beyond Useful Life,0
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Rail Adhesion,3,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Refuse Coll. Prop.,18,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Refuse Flat,27,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Rider Car,39,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Signal Supply Car,2,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Snow Removal Car,5,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Snow Thrower,12,Each,Percent Beyond Useful Life,0.33
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Tamper,4,Each,Percent Beyond Useful Life,0
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Tank Car,3,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Track Geometry,4,Each,Percent Beyond Useful Life,0.5
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Vacuum Train Car,12,Each,Percent Beyond Useful Life,0
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Weld Car,2,Each,Percent Beyond Useful Life,1
+NYCT,Work trains and service vehicles,Work trains and service vehicles,Work Motor,39,Each,Percent Beyond Useful Life,1
+LIRR,"Shops, yards, and facilities",Employee Facility,Conveyance (elevator and escalators),5,Each,Percent in Poor/Marginal Condition,0
+LIRR,"Shops, yards, and facilities",Employee Facility,"Electrical (electrical - load, panels, light)",16,Each,Percent in Poor/Marginal Condition,0.31
+LIRR,"Shops, yards, and facilities",Employee Facility,Shop Equipment (Generator/ATS/UPS),3,Each,Percent in Poor/Marginal Condition,0.67
+LIRR,"Shops, yards, and facilities",Employee Facility,"Fire Protection, Security",15,Each,Percent in Poor/Marginal Condition,0.33
+LIRR,"Shops, yards, and facilities",Employee Facility,"HVAC (heating, ventilation, and air conditioning)",31,Each,Percent in Poor/Marginal Condition,0.32
+LIRR,"Shops, yards, and facilities",Employee Facility,"Interior (interior walls, stairwells, restrooms)",39,Each,Percent in Poor/Marginal Condition,0.46
+LIRR,"Shops, yards, and facilities",Employee Facility,"Plumbing (sanitary waste, drainage, etc.)",16,Each,Percent in Poor/Marginal Condition,0.13
+LIRR,"Shops, yards, and facilities",Employee Facility,"Shell (Roof, doors, windows, facade)",62,Each,Percent in Poor/Marginal Condition,0.34
+LIRR,"Shops, yards, and facilities",Employee Facility,"Site (roadways, parking lot, pedestrian bridge, platform, sidewalk, walkway, sidewalk/ramp, etc.)",48,Each,Percent in Poor/Marginal Condition,0.19
+LIRR,"Shops, yards, and facilities",Shops,Conveyance (elevator and escalators),3,Each,Percent in Poor/Marginal Condition,0
+LIRR,"Shops, yards, and facilities",Shops,"Electrical (electrical distribution, lighting, etc.)",10,Each,Percent in Poor/Marginal Condition,0.3
+LIRR,"Shops, yards, and facilities",Shops,Shop Equipment,6,Each,Percent in Poor/Marginal Condition,0.17
+LIRR,"Shops, yards, and facilities",Shops,"Fire Protection, Security",8,Each,Percent in Poor/Marginal Condition,0.38
+LIRR,"Shops, yards, and facilities",Shops,"HVAC (heating, ventilation, and air conditioning)",19,Each,Percent in Poor/Marginal Condition,0.05
+LIRR,"Shops, yards, and facilities",Shops,"Interior (walls, restrooms, stairs)",19,Each,Percent in Poor/Marginal Condition,0.16
+LIRR,"Shops, yards, and facilities",Shops,"Plumbing (sanitary waste, drainage, etc.)",10,Each,Percent in Poor/Marginal Condition,0.2
+LIRR,"Shops, yards, and facilities",Shops,"Shell (structure, floor, windows, doors, etc.)",39,Each,Percent in Poor/Marginal Condition,0.13
+LIRR,"Shops, yards, and facilities",Shops,"Site (sidewalks, ramps, parking lot, security fence)",21,Each,Percent in Poor/Marginal Condition,0.14
+LIRR,"Shops, yards, and facilities",Shops,Rolling Stock Support Equipment,"1,105",Each,Percent in Poor/Marginal Condition,0.84
+LIRR,"Shops, yards, and facilities",Yards,"Electrical (electrical distribution, lighting, etc.)",6,Each,Percent in Poor/Marginal Condition,0.17
+LIRR,"Shops, yards, and facilities",Yards,"Fire Protection, Security",3,Each,Percent in Poor/Marginal Condition,0
+LIRR,"Shops, yards, and facilities",Yards,"HVAC (Heating, ventilation, and air conditioning)",12,Each,Percent in Poor/Marginal Condition,0.25
+LIRR,"Shops, yards, and facilities",Yards,"Interior (walls, doors, stairs)",12,Each,Percent in Poor/Marginal Condition,0.25
+LIRR,"Shops, yards, and facilities",Yards,"Plumbing (sanitary waste, drainage, etc.)",6,Each,Percent in Poor/Marginal Condition,0.17
+LIRR,"Shops, yards, and facilities",Yards,"Shell (structure, floor, windows, etc.)",22,Each,Percent in Poor/Marginal Condition,0.23
+LIRR,"Shops, yards, and facilities",Yards,"Site (roadways, misc. structures, etc.)",13,Each,Percent in Poor/Marginal Condition,0.23
+LIRR,"Shops, yards, and facilities",Yards,Work Locomotives,33,Each,Percent in Poor/Marginal Condition,0.94
+LIRR,Stations,Platform components,ADA Ramp,152,Each,Percent in Poor/Marginal Condition,0.07
+LIRR,Stations,Platform components,Platform Substructure,206,Each,Percent in Poor/Marginal Condition,0.19
+LIRR,Stations,Platform components,Platform Slabs,206,Each,Percent in Poor/Marginal Condition,0.19
+LIRR,Stations,Platform components,Platform Joints,206,Each,Percent in Poor/Marginal Condition,0.15
+LIRR,Stations,Platform components,Platform Railing,157,Each,Percent in Poor/Marginal Condition,0.05
+LIRR,Stations,Platform components,Platform Waiting Room,29,Each,Percent in Poor/Marginal Condition,0
+LIRR,Stations,Platform components,Canopy,100,Each,Percent in Poor/Marginal Condition,0.24
+LIRR,Stations,Platform components,Shelter,182,Each,Percent in Poor/Marginal Condition,0.06
+LIRR,Stations,Platform components,Stairs,751,Each,Percent in Poor/Marginal Condition,0.05
+LIRR,Stations,Elevators & Escalators,Elevators,50,Each,Percent in Poor/Marginal Condition,0.32
+LIRR,Stations,Elevators & Escalators,Escalators,19,Each,Percent in Poor/Marginal Condition,0.63
+LIRR,Stations,Station Building Components,Station Building Exterior,88,Each,Percent in Poor/Marginal Condition,0.03
+LIRR,Stations,Station Building Components,"Station Building Interior (doors, windows, floors, walls, restrooms, security systems, HVAC systems, fire suppression systems)",88,Each,Percent in Poor/Marginal Condition,0.01
+LIRR,Stations,Paving,Walkways/Sidewalks,260,Each,Percent in Poor/Marginal Condition,0.05
+LIRR,Stations,Parking,Parking (Surface Lot),151,Each,Percent in Poor/Marginal Condition,0.2
+LIRR,Stations,Parking,Parking Structure,1,Each,Percent in Poor/Marginal Condition,0
+LIRR,Stations,Parking,Parking (Garage),3,Each,Percent in Poor/Marginal Condition,0
+LIRR,Passenger station public communications and security,Passenger station public communications and security,AVPS Color Signs,230,Each,Percent in Poor/Marginal Condition,0
+LIRR,Passenger station public communications and security,Passenger station public communications and security,"Platform, Large, Indoor, Parking & Safety Signs",506,Each,Percent in Poor/Marginal Condition,0.99
+LIRR,Passenger station public communications and security,Passenger station public communications and security,Public Address,122,Each,Percent in Poor/Marginal Condition,0
+LIRR,Passenger station public communications and security,Passenger station public communications and security,Security - Access Control Readers,699,Each,Percent in Poor/Marginal Condition,1
+LIRR,Passenger station public communications and security,Passenger station public communications and security,Security - Cameras,"2,987",Each,Percent in Poor/Marginal Condition,0.07
+LIRR,Passenger station public communications and security,Passenger station public communications and security,Security - Network Video Recorders,292,Each,Percent in Poor/Marginal Condition,0.68
+LIRR,Penn Station,"Structural/Architectural (Concourse Ceilings, Floors, Walls, etc.)",Structural Platforms (Platforms & Tactile Edging),"149,800",Square Feet,Percent in Poor/Marginal Condition,1
+LIRR,Penn Station,"Structural/Architectural (Concourse Ceilings, Floors, Walls, etc.)",Interior Finishes,"496,500",Square Feet,Percent in Poor/Marginal Condition,0.1
+LIRR,Penn Station,"Structural/Architectural (Concourse Ceilings, Floors, Walls, etc.)","Architectural Elements (Canopy, Doors, Staircases, etc.)",111,Each,Percent in Poor/Marginal Condition,0.6
+LIRR,Penn Station,"Structural/Architectural (Concourse Ceilings, Floors, Walls, etc.)",Offices/Rooms,"15,235",Square Feet,Percent in Poor/Marginal Condition,0.2
+LIRR,Penn Station,Communications,"Communications (Station Announcement Control Board, Video Recording System)",11,Systems,Percent in Poor/Marginal Condition,1
+LIRR,Penn Station,Communications,"Passenger Information Assets (Display Boards, Signs, Clocks, etc.)",317,Each,Percent in Poor/Marginal Condition,0.53
+LIRR,Penn Station,Communications,Passenger Information Systems,3,System,Percent in Poor/Marginal Condition,0.67
+LIRR,Penn Station,Fire and Life Safety,"Fire Protection Assets (FS Dampers, Fire Suppression)",35,Each,Percent in Poor/Marginal Condition,0.09
+LIRR,Penn Station,Fire and Life Safety,Fire Protection Linear Assets (Standpipes),2.6,Miles,Percent in Poor/Marginal Condition,1
+LIRR,Penn Station,Fire and Life Safety,Fire Protection System,1,System,Percent in Poor/Marginal Condition,0
+LIRR,Penn Station,Electrical,PSCI Lighting,1,System,Percent in Poor/Marginal Condition,0
+LIRR,Penn Station,Electrical,Cables/Wiring,149,Miles,Percent in Poor/Marginal Condition,0.97
+LIRR,Penn Station,Electrical,"Equipment (Panels, Lighting Fixtures, Switches)","6,386",Each,Percent in Poor/Marginal Condition,0.91
+LIRR,Penn Station,Mechanical,Mechanical System,2,System,Percent in Poor/Marginal Condition,0
+LIRR,Penn Station,Mechanical,"Mechanical Assets (Heaters, Boilers, Pumps, Generators, Lifts, etc.)",68,Each,Percent in Poor/Marginal Condition,0.08
+LIRR,Penn Station,Mechanical,Mechanical - Elevators,6,Each,Percent in Poor/Marginal Condition,0
+LIRR,Penn Station,Mechanical,Mechanical - Escalators,14,Each,Percent in Poor/Marginal Condition,0
+LIRR,Penn Station,Mechanical,Mechanical/ HVAC System,1,System,Percent in Poor/Marginal Condition,0
+LIRR,Penn Station,Mechanical,"Mechanical/HVAC System Assets (Fans, Air Handlers, Fan Coil Units, etc.)",166,Each,Percent in Poor/Marginal Condition,0.17
+LIRR,Penn Station,Plumbing,Pipes,34,Miles,Percent in Poor/Marginal Condition,0.65
+LIRR,Penn Station,Plumbing,"Equipment (Ejector Pumps, Fixtures, Valves, etc.)",337,Each,Percent in Poor/Marginal Condition,0.84
+LIRR,Line structures,Line structures,Undergrade Bridge (Structure),504,Each,Percent in Poor/Marginal Condition,0.13
+LIRR,Line structures,Line structures,Undergrade Bridge (Waterproofing),409,Each,Percent in Poor/Marginal Condition,0.69
+LIRR,Line structures,Line structures,Undergrade Bridge (Painting),390,Each,Percent in Poor/Marginal Condition,0.69
+LIRR,Line structures,Line structures,Overgrade Bridge,56,Each,Percent in Poor/Marginal Condition,0.19
+LIRR,Line structures,Line structures,Tunnel,4,Each,Percent in Poor/Marginal Condition,0.75
+LIRR,Line structures,Line structures,Viaduct,29,Each,Percent in Poor/Marginal Condition,0.24
+LIRR,Line structures,Line structures,Retaining Wall,103,Each,Percent in Poor/Marginal Condition,0.18
+LIRR,Line structures,Line structures,Signal Tower,86,Each,Percent in Poor/Marginal Condition,0.19
+LIRR,Line structures,Line structures,Lattice Tower,277,Each,Percent in Poor/Marginal Condition,0.13
+LIRR,Line structures,Line structures,Culvert,163,Each,Percent in Poor/Marginal Condition,0.2
+LIRR,Track,Track,Ballast,500,Track Miles,Percent Due for Replacement,0.35
+LIRR,Track,Track,Grade Crossing,417,Each,Percent Due for Replacement,0.64
+LIRR,Track,Track,Rail,"5,374,021",Linear Feet,Percent Due for Replacement,0.16
+LIRR,Track,Track,Switches,916,Each,Percent Due for Replacement,0.26
+LIRR,Track,Track,Tie,"1,519,134",Each,Percent Due for Replacement,0.2
+LIRR,Track,Track,Construction Equipment,372,Each,Percent Due for Replacement,0.35
+LIRR,Signals,Signals,Switch Machine,970,Each,Percent in Poor/Marginal Condition,0.24
+LIRR,Signals,Signals,Signal,812,Each,Percent in Poor/Marginal Condition,0.51
+LIRR,Signals,Signals,Supervisory and Control,174,Each,Percent in Poor/Marginal Condition,0.37
+LIRR,Signals,Signals,Equipment Location - Huts and Cases,"1,374",Each,Percent in Poor/Marginal Condition,0.59
+LIRR,Signals,Signals,Gate Mechanisms,851,Each,Percent in Poor/Marginal Condition,0.28
+LIRR,Signals,Signals,Air System,17,Each,Percent in Poor/Marginal Condition,0.82
+LIRR,Signals,Signals,Battery,"1,088",Each,Percent in Poor/Marginal Condition,0.57
+LIRR,Signals,Signals,Cable,"7,979",Each,Percent in Poor/Marginal Condition,0.54
+LIRR,Signals,Signals,Electronic Equipment,283,Each,Percent in Poor/Marginal Condition,0.06
+LIRR,Signals,Signals,WIUs (Wayside Interface Units � PTC Signal Component),171,Each,Percent in Poor/Marginal Condition,0.24
+LIRR,Signals,Signals,Transponders (PTC Signal Component),"4,500",Each,Percent in Poor/Marginal Condition,0.26
+LIRR,Power,Power,Substation Overall (Age Based),129,Each,Percent in Poor/Marginal Condition,0.52
+LIRR,Power,Power,Substation Components,"2,826",Each,Percent in Poor/Marginal Condition,0.22
+LIRR,Power,Power,"Electrical System (bridge electrical systems, tunnel and yard lighting, emergency generators, wayside power, communication rooms and huts, station building electrical systems, and station and platform lighting)","13,217",Each,Percent in Poor/Marginal Condition,0.52
+LIRR,Power,Power,"High Tension Cable, Feeder, and Power Lines",494,Miles,Percent in Poor/Marginal Condition,0.17
+LIRR,Power,Power,High Tension Equipment,"7,805",Each,Percent in Poor/Marginal Condition,0.09
+LIRR,Power,Power,3rd Rail Bracket,"42,098",Each,Percent in Poor/Marginal Condition,0.19
+LIRR,Power,Power,3rd Rail Cable,"1,247,000",Linear Feet,Percent in Poor/Marginal Condition,0.19
+LIRR,Power,Power,3rd Rail Fiberglass Protection Board,"1,662,000",Linear Feet,Percent in Poor/Marginal Condition,0.48
+LIRR,Power,Power,3rd Rail Wood Protection Board,"15,000",Linear Feet,Percent in Poor/Marginal Condition,0
+LIRR,Power,Power,3rd Rail Reactor,115,Each,Percent in Poor/Marginal Condition,0.66
+LIRR,Power,Power,3rd Rail � Aluminum,"79,000",Linear Feet,Percent in Poor/Marginal Condition,0
+LIRR,Power,Power,3rd Rail � Composite,"1,108,000",Linear Feet,Percent in Poor/Marginal Condition,0
+LIRR,Power,Power,3rd Rail � Conventional,"55,000",Linear Feet,Percent in Poor/Marginal Condition,0.97
+LIRR,Communication Infrastructure,Communication Infrastructure,Wooden Poles,"9,998",Each,Percent in Poor/Marginal Condition,0.17
+LIRR,Communication Infrastructure,Communication Infrastructure,Fiber Optics (Current Standard),225,Miles,Percent in Poor/Marginal Condition,0
+LIRR,Communication Infrastructure,Communication Infrastructure,Cable - SM Fiber (Old Standard),635,Miles,Percent in Poor/Marginal Condition,0
+LIRR,Communication Infrastructure,Communication Infrastructure,Cable - Copper,720,Miles,Percent in Poor/Marginal Condition,1
+LIRR,Communication Infrastructure,Communication Infrastructure,Communication Support System,"5,796",Each,Percent in Poor/Marginal Condition,0.28
+LIRR,Communication Infrastructure,Communication Infrastructure,Outside Plant,622,Each,Percent in Poor/Marginal Condition,0.22
+LIRR,Communication Infrastructure,Communication Infrastructure,PTC System,"4,178",Each,Percent in Poor/Marginal Condition,0
+LIRR,Communication Infrastructure,Communication Infrastructure,Radio Base Stations,270,Each,Percent in Poor/Marginal Condition,0.69
+LIRR,Communication Infrastructure,Communication Infrastructure,Communication Huts,398,Each,Percent in Poor/Marginal Condition,0.26
+LIRR,Communication Infrastructure,Communication Infrastructure,Radio Equipment,"3,465",Each,Percent in Poor/Marginal Condition,0.39
+LIRR,Communication Infrastructure,Communication Infrastructure,Radio Cable,23,Miles,Percent in Poor/Marginal Condition,0.57
+MNR,"Shops, yards, and facilities",Yards and Yard Assets,Employee Facilities,9,Each,Percent in Poor/Marginal Condition,0.13
+MNR,"Shops, yards, and facilities",Yards and Yard Assets,Utilities,8,Each,Percent in Poor/Marginal Condition,0.38
+MNR,"Shops, yards, and facilities",Yards and Yard Assets,Yard Utilities,36,Each,Percent in Poor/Marginal Condition,0.42
+MNR,"Shops, yards, and facilities",Yards and Yard Assets,Plumbing and Drainage,37,Each,Percent in Poor/Marginal Condition,0.41
+MNR,"Shops, yards, and facilities",Yards and Yard Assets,Fire Protection,2,Each,Percent in Poor/Marginal Condition,0.5
+MNR,"Shops, yards, and facilities",Yards and Yard Assets,Yard Substation,4,Each,Percent in Poor/Marginal Condition,0
+MNR,"Shops, yards, and facilities",MOE Shops,Employee Facilities,12,Each,Percent in Poor/Marginal Condition,0.17
+MNR,"Shops, yards, and facilities",MOE Shops,Air Curtain Doors,6,Each,Percent in Poor/Marginal Condition,0
+MNR,"Shops, yards, and facilities",MOE Shops,Building Exterior,19,Each,Percent in Poor/Marginal Condition,0.21
+MNR,"Shops, yards, and facilities",MOE Shops,Building Utilities,16,Each,Percent in Poor/Marginal Condition,0.06
+MNR,"Shops, yards, and facilities",MOE Shops,HVAC,19,Each,Percent in Poor/Marginal Condition,0.11
+MNR,"Shops, yards, and facilities",MOE Shops,Roofs,19,Each,Percent in Poor/Marginal Condition,0.16
+MNR,"Shops, yards, and facilities",MOE Shops,Walls,27,Each,Percent in Poor/Marginal Condition,0.11
+MNR,"Shops, yards, and facilities",MOE Shops,Windows,15,Each,Percent in Poor/Marginal Condition,0.07
+MNR,"Shops, yards, and facilities",MOE Shops,"Equipment (e.g., car cranes, equipment lifts, wheel true)",235,Each,Percent in Poor/Marginal Condition,0.89
+MNR,"Shops, yards, and facilities",MOW Shops,Air Curtain Doors,1,Each,Percent in Poor/Marginal Condition,0
+MNR,"Shops, yards, and facilities",MOW Shops,Building Exterior,60,Each,Percent in Poor/Marginal Condition,0.72
+MNR,"Shops, yards, and facilities",MOW Shops,Building Utilities,65,Each,Percent in Poor/Marginal Condition,0.68
+MNR,"Shops, yards, and facilities",MOW Shops,Employee Facilities,14,Each,Percent in Poor/Marginal Condition,0.5
+MNR,"Shops, yards, and facilities",MOW Shops,HVAC,16,Each,Percent in Poor/Marginal Condition,0.44
+MNR,"Shops, yards, and facilities",MOW Shops,Roofs,59,Each,Percent in Poor/Marginal Condition,0.71
+MNR,"Shops, yards, and facilities",MOW Shops,Walls,96,Each,Percent in Poor/Marginal Condition,0.75
+MNR,"Shops, yards, and facilities",MOW Shops,Windows,48,Each,Percent in Poor/Marginal Condition,0.67
+MNR,Passenger stations,Passenger stations,Platforms,134,Each,Percent in Poor/Marginal Condition,0.19
+MNR,Passenger stations,Passenger stations,Canopies,113,Each,Percent in Poor/Marginal Condition,0.02
+MNR,Passenger stations,Passenger stations,Shelters,124,Each,Percent in Poor/Marginal Condition,0.02
+MNR,Passenger stations,Passenger stations,Elevators,105,Each,Percent in Poor/Marginal Condition,0.89
+MNR,Passenger stations,Passenger stations,Escalators,2,Each,Percent in Poor/Marginal Condition,0
+MNR,Passenger stations,Passenger stations,Stairs,340,Each,Percent in Poor/Marginal Condition,0.07
+MNR,Passenger stations,Passenger stations,ADA Ramps,83,Each,Percent in Poor/Marginal Condition,0.02
+MNR,Passenger stations,Passenger stations,Overpass,50,Each,Percent in Poor/Marginal Condition,0
+MNR,Passenger stations,Passenger stations,Underpass,12,Each,Percent in Poor/Marginal Condition,0.33
+MNR,Passenger stations,Passenger stations,Station Building,34,Each,Percent in Poor/Marginal Condition,0.03
+MNR,Passenger stations,Passenger stations,Parking Lot,72,Each,Percent in Poor/Marginal Condition,0.17
+MNR,Passenger stations,Passenger stations,Parking Garage,4,Each,Percent in Poor/Marginal Condition,0.25
+MNR,Public communications and security,Public communications and security,Office (head end) Public Address/Visual Information System (PA/VIS),2,Each,Percent in Poor/Marginal Condition,1
+MNR,Public communications and security,Public communications and security,Grand Central Terminal Big Board,1,Each,Percent in Poor/Marginal Condition,0
+MNR,Public communications and security,Public communications and security,Grand Central Terminal Arrival/Departure Boards,72,Each,Percent in Poor/Marginal Condition,0
+MNR,Public communications and security,Public communications and security,Grand Central Terminal Gate Boards,96,Each,Percent in Poor/Marginal Condition,0
+MNR,Public communications and security,Public communications and security,Grand Central Terminal Employee Displays,17,Each,Percent in Poor/Marginal Condition,0
+MNR,Public communications and security,Public communications and security,"Grand Central Terminal Station PA (speakers, ambient, sensing microphones)",600,Each,Percent in Poor/Marginal Condition,0
+MNR,Public communications and security,Public communications and security,Grand Central Terminal Customer Communications Network/Cable Plant,1,Each,Percent in Poor/Marginal Condition,0
+MNR,Public communications and security,Public communications and security,PA/VIS - Ticket Office,30,Each,Percent in Poor/Marginal Condition,1
+MNR,Public communications and security,Public communications and security,Station Digital Displays,827,Each,Percent in Poor/Marginal Condition,0.4
+MNR,Public communications and security,Public communications and security,"Station PA (speakers, ambient sensing microphones)","2,293",Each,Percent in Poor/Marginal Condition,0
+MNR,Public communications and security,Public communications and security,Station Intercoms,87,Each,Percent in Poor/Marginal Condition,0.1
+MNR,Public communications and security,Public communications and security,Station Communications Network/Cable Plant,10,Each,Percent in Poor/Marginal Condition,1
+MNR,Public communications and security,Public communications and security,"Station Equipment (controllers, digital signal processors, amplifiers)",87,Each,Percent in Poor/Marginal Condition,0.8
+MNR,Public communications and security,Public communications and security,"Security Head End, Workstations, Servers",96,Each,Percent in Poor/Marginal Condition,0.76
+MNR,Public communications and security,Public communications and security,"Security Cameras, Recorders and Server","2,743",Each,Percent in Poor/Marginal Condition,0.52
+MNR,Public communications and security,Public communications and security,Security Switches (field data transfer links to head end security system),382,Each,Percent in Poor/Marginal Condition,0.32
+MNR,Grand Central Terminal,Grand Central Terminal,"GCT Building and Structures (building and block area structural supports and roof, elevated Park Avenue roadway(",5,Each,Percent in Poor/Marginal Condition,0.6
+MNR,Grand Central Terminal,Grand Central Terminal,"Platforms, Platform Edges, Platform Expansion Joints",113,Each,Percent in Poor/Marginal Condition,0.77
+MNR,Grand Central Terminal,Grand Central Terminal,Interior/Exterior Architecture Systems,146,Each,Percent in Poor/Marginal Condition,0.47
+MNR,Grand Central Terminal,Grand Central Terminal,Electrical Systems,13,Each,Percent in Poor/Marginal Condition,0.38
+MNR,Grand Central Terminal,Grand Central Terminal,"Fire/Life Safety Systems (fire alarm, standpipe, sprinkler)",10,Each,Percent in Poor/Marginal Condition,0.27
+MNR,Grand Central Terminal,Grand Central Terminal,HVAC Systems,25,Each,Percent in Poor/Marginal Condition,0.48
+MNR,Grand Central Terminal,Grand Central Terminal,"Plumbing Systems (domestic hot and cold water, sanitary, sewerage, drainage, steam)",16,Each,Percent in Poor/Marginal Condition,0.75
+MNR,Grand Central Terminal,Grand Central Terminal,"Elevator (passenger, freight)",32,Each,Percent in Poor/Marginal Condition,0.19
+MNR,Grand Central Terminal,Grand Central Terminal,Escalators (passenger),14,Each,Percent in Poor/Marginal Condition,0.07
+MNR,Grand Central Artery,Train Shed,Train Shed Main Bridge Structural Framing,6,Structure,Percent in Poor/Marginal Condition,0.83
+MNR,Grand Central Artery,Train Shed,Train Shed Structural Supports and Roof Slab,4,Structure,Percent in Poor/Marginal Condition,1
+MNR,Grand Central Artery,Train Shed,Train Shed Expansion Joints,"19,045",Feet,Percent in Poor/Marginal Condition,0.12
+MNR,Grand Central Artery,Train Shed,Train Shed Drainage System,5,Systems,Percent in Poor/Marginal Condition,1
+MNR,Grand Central Artery,Train Shed,Train Shed Waterproofing System,5,Systems,Percent in Poor/Marginal Condition,0.8
+MNR,Grand Central Artery,Train Shed,"Train Shed Misc. Steel (gratings, drip pans, utility service carriers and supports)",5,Systems,Percent in Poor/Marginal Condition,0.8
+MNR,Grand Central Artery,Train Shed,Train Shed HVAC System,1,Systems,Percent in Poor/Marginal Condition,1
+MNR,Grand Central Artery,Train Shed,Train Shed Electrical Systems,3,Systems,Percent in Poor/Marginal Condition,0.33
+MNR,Grand Central Artery,Train Shed,Train Shed Fire Standpipe Systems (Upper/Lower Levels),2,Systems,Percent in Poor/Marginal Condition,0.5
+MNR,Grand Central Artery,Train Shed,Train Shed Architectural,15,Systems,Percent in Poor/Marginal Condition,0.6
+MNR,Grand Central Artery,Park Avenue Tunnel,"Park Ave Tunnel Electrical Systems (tunnel lighting, tunnel alarm, third rail traction power)",3,Systems,Percent in Poor/Marginal Condition,1
+MNR,Grand Central Artery,Park Avenue Tunnel,"Park Avenue Tunnel Main Structural Framing (brick walls, arches, steel framing)",1,Systems,Percent in Poor/Marginal Condition,1
+MNR,Grand Central Artery,Park Avenue Tunnel,"Park Avenue Tunnel Utility Bays (steel supports, concrete walls, infill)",1,Systems,Percent in Poor/Marginal Condition,1
+MNR,Grand Central Artery,Park Avenue Tunnel,Park Avenue Tunnel Ventilation Shafts and Gratings,80,Each,Percent in Poor/Marginal Condition,1
+MNR,Grand Central Artery,Park Avenue Tunnel,"Park Ave Tunnel Structures (existing emergency stairs and exits at 59th, 72nd and 86th streets)",3,Sets,Percent in Poor/Marginal Condition,0.83
+MNR,Grand Central Artery,Park Avenue Viaduct,Viaduct Structure,104,Spans,Percent in Poor/Marginal Condition,0.77
+MNR,Grand Central Artery,Park Avenue Viaduct,Viaduct Deck,"6,346",Linear Feet,Percent in Poor/Marginal Condition,0.77
+MNR,Line Structures,Line Structures,Undergrade Bridge,181,Each,Percent in Poor/Marginal Condition,0.46
+MNR,Line Structures,Line Structures,Culvert - Undergrade,189,Each,Percent in Poor/Marginal Condition,0.65
+MNR,Line Structures,Line Structures,Overhead Bridge,313,Each,Percent in Poor/Marginal Condition,0.23
+MNR,Line Structures,Line Structures,Retaining Wall,707,Each,Percent in Poor/Marginal Condition,0.27
+MNR,Line Structures,Line Structures,Tunnels,9,Each,Percent in Poor/Marginal Condition,0.11
+MNR,Track,Track,Grade Crossing,49,Each,Percent in Poor/Marginal Condition,0.35
+MNR,Track,Track,Hi-Rail Work Equipment,607,Each,Percent in Poor/Marginal Condition,0.46
+MNR,Track,Track,Non-Revenue Rolling Stock,202,Each,Percent in Poor/Marginal Condition,0.42
+MNR,Track,Track,Rail,"1,004",Rail miles,Percent in Poor/Marginal Condition,0.39
+MNR,Track,Track,Ties - Concrete,"468,174",Each,Percent in Poor/Marginal Condition,0.39
+MNR,Track,Track,Ties - Wood,"1,090,507",Each,Percent in Poor/Marginal Condition,0.16
+MNR,Track,Track,Turnouts (switches),838,Each,Percent in Poor/Marginal Condition,0.45
+MNR,Signals,Signals,Signal Systems - Hudson Line,76,Miles,Percent in Poor/Marginal Condition,0.93
+MNR,Signals,Signals,Signal Systems - Harlem Line,81,Miles,Percent in Poor/Marginal Condition,0.52
+MNR,Signals,Signals,Signal Systems - New Haven Line (NYS only),14,Miles,Percent in Poor/Marginal Condition,0
+MNR,Signals,Signals,Signal Systems - Port Jervis Line,60,Miles,Percent in Poor/Marginal Condition,0
+MNR,Signals,Signals,Signal CTC Office SCADA Power Control Centers assets,"1,445",Each,Percent in Poor/Marginal Condition,0.78
+MNR,Signals,Signals,"PTC (office systems, onboard systems, field systems)","3,825",Each,Percent in Poor/Marginal Condition,0
+MNR,Signals,Signals,Grade Crossing Flashers and Gates,37,Each,Percent in Poor/Marginal Condition,0
+MNR,Signals,Signals,"Signal Field Infrastructure (hot box detectors, dragging equipment detectors, block carriers, overlay equipment, etc.)","1,821",Each,Percent in Poor/Marginal Condition,0.49
+MNR,Signals,Signals,Switch Machines,930,Each,Percent in Poor/Marginal Condition,0.46
+MNR,Power,Power,"Third Rail Components (brackets, connectors, insulators, snow melters, etc.)","291,065",Each,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,Third Rail Linear Assets (rail),308,Miles,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,DC Substations,55,Each,Percent in Poor/Marginal Condition,0.89
+MNR,Power,Power,DC Circuit Breaker Houses,3,Each,Percent in Poor/Marginal Condition,0.33
+MNR,Power,Power,DC Substation Auxiliary,50,Sets,Percent in Poor/Marginal Condition,0
+MNR,Power,Power,AC Substations,6,Each,Percent in Poor/Marginal Condition,0.83
+MNR,Power,Power,"AC Substation Assets (switches, transformers, supply stations)",20,Each,Percent in Poor/Marginal Condition,0.95
+MNR,Power,Power,Signal Power Substations,6,Each,Percent in Poor/Marginal Condition,0.83
+MNR,Power,Power,"Signal Power Assets (transformers, switches, back-up generators)",301,Each,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,Signal Power Cable,186,Miles,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,Cable Linear Assets,567,Miles,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,Catenary,36,Miles,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,Cable Plant Catenary Poles,245,Each,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,"Catenary Plant Assets (pulleys, balance assemblies, etc.)","1,935",Each,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,Transmission Assets,692,Each,Percent in Poor/Marginal Condition,0.95
+MNR,Power,Power,Transmission Bare Overhead Feeders (15kV),18,Miles,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,Transmission Wood Poles,"1,400",Each,Percent in Poor/Marginal Condition,0.79
+MNR,Power,Power,"Harlem River Lift Bridge Plant (control systems, motors, drives)",17,Each,Percent in Poor/Marginal Condition,0
+MNR,Power,Power,Stand-by-Power Assets,66,Each,Percent in Poor/Marginal Condition,1
+MNR,Power,Power,Passenger Station Lighting Assets,"1,500",Each,Percent in Poor/Marginal Condition,1
+MNR,Communication infrastructure,Communication infrastructure,"Fiber Optic Transmission Equipment (node houses) and Local Fiber Connections to CILs, MLs, Substations, Passenger Stations",970,Each,Percent in Poor/Marginal Condition,0.85
+MNR,Communication infrastructure,Communication infrastructure,Voice Radio Equipment,"7,268",Each,Percent in Poor/Marginal Condition,1
+MNR,Communication infrastructure,Communication infrastructure,Voice Rado Cable,"100,000",Feet,Percent in Poor/Marginal Condition,1
+MNR,Communication infrastructure,Communication infrastructure,Telephone Equipment,118,Each,Percent in Poor/Marginal Condition,1
+MNR,Communication infrastructure,Communication infrastructure,Uninterruptible Power Supply System,1,Each,Percent in Poor/Marginal Condition,0
+MNR,Communication infrastructure,Communication infrastructure,Wire/Fiber,376,Miles,Percent in Poor/Marginal Condition,0.12
+MNR,Communication infrastructure,Communication infrastructure,GCT Wire/Fiber,208,Segments,Percent in Poor/Marginal Condition,0.45
+MNR,Communication infrastructure,Communication infrastructure,Construction Equipment,10,Each,Percent in Poor/Marginal Condition,0.5
+MNR,Communication infrastructure,Communication infrastructure,Employee Facilities,15,Each,Percent in Poor/Marginal Condition,0.2
+B&T,Bridges,Bronx-Whitestone Bridge,Structures,N/A,N/A,Needs update/replacement,0.15
+B&T,Bridges,Bronx-Whitestone Bridge,Roadways and Decks,N/A,N/A,Needs update/replacement,0.03
+B&T,Bridges,Bronx-Whitestone Bridge,Utilities,N/A,N/A,Needs update/replacement,0.09
+B&T,Bridges,Bronx-Whitestone Bridge,Buildings,N/A,N/A,Needs update/replacement,0.29
+B&T,Bridges,Robert F. Kennedy Bridge,Structures,N/A,N/A,Needs update/replacement,0.06
+B&T,Bridges,Robert F. Kennedy Bridge,Roadways and Decks,N/A,N/A,Needs update/replacement,0.15
+B&T,Bridges,Robert F. Kennedy Bridge,Utilities,N/A,N/A,Needs update/replacement,0.11
+B&T,Bridges,Robert F. Kennedy Bridge,Buildings,N/A,N/A,Needs update/replacement,0.39
+B&T,Bridges,Throgs Neck Bridge,Structures,N/A,N/A,Needs update/replacement,0.13
+B&T,Bridges,Throgs Neck Bridge,Roadways and Decks,N/A,N/A,Needs update/replacement,0.22
+B&T,Bridges,Throgs Neck Bridge,Utilities,N/A,N/A,Needs update/replacement,0.29
+B&T,Bridges,Throgs Neck Bridge,Buildings,N/A,N/A,Needs update/replacement,0.5
+B&T,Bridges,Verrazzano-Narrow Bridge,Structures,N/A,N/A,Needs update/replacement,0.31
+B&T,Bridges,Verrazzano-Narrow Bridge,Roadways and Decks,N/A,N/A,Needs update/replacement,0.4
+B&T,Bridges,Verrazzano-Narrow Bridge,Utilities,N/A,N/A,Needs update/replacement,0.32
+B&T,Bridges,Verrazzano-Narrow Bridge,Buildings,N/A,N/A,Needs update/replacement,0.45
+B&T,Bridges,Henry Hudson Bridge,Structures,N/A,N/A,Needs update/replacement,0.02
+B&T,Bridges,Henry Hudson Bridge,Roadways and Decks,N/A,N/A,Needs update/replacement,0.05
+B&T,Bridges,Henry Hudson Bridge,Utilities,N/A,N/A,Needs update/replacement,0.11
+B&T,Bridges,Henry Hudson Bridge,Buildings,N/A,N/A,Needs update/replacement,0.29
+B&T,Bridges,Cross Bay Bridge,Structures,N/A,N/A,Needs update/replacement,0.12
+B&T,Bridges,Cross Bay Bridge,Roadways and Decks,N/A,N/A,Needs update/replacement,0.07
+B&T,Bridges,Cross Bay Bridge,Utilities,N/A,N/A,Needs update/replacement,0.09
+B&T,Bridges,Cross Bay Bridge,Buildings,N/A,N/A,Needs update/replacement,0.3
+B&T,Bridges,Marine Parkway Bridge,Structures,N/A,N/A,Needs update/replacement,0.2
+B&T,Bridges,Marine Parkway Bridge,Roadways and Decks,N/A,N/A,Needs update/replacement,0.13
+B&T,Bridges,Marine Parkway Bridge,Utilities,N/A,N/A,Needs update/replacement,0.26
+B&T,Bridges,Marine Parkway Bridge,Buildings,N/A,N/A,Needs update/replacement,0.3
+B&T,Tunnels,Hugh L. Carey Tunnel,Structures,N/A,N/A,Needs update/replacement,0.04
+B&T,Tunnels,Hugh L. Carey Tunnel,Roadways and Plazas,N/A,N/A,Needs update/replacement,0.47
+B&T,Tunnels,Hugh L. Carey Tunnel,Utilities,N/A,N/A,Needs update/replacement,0.12
+B&T,Tunnels,Hugh L. Carey Tunnel,Buildings,N/A,N/A,Needs update/replacement,0.4
+B&T,Tunnels,Battery Parking Garage,Utilities,N/A,N/A,Needs update/replacement,0.23
+B&T,Tunnels,Battery Parking Garage,Buildings,N/A,N/A,Needs update/replacement,0.39
+B&T,Tunnels,Queens Midtown Tunnel,Structures,N/A,N/A,Needs update/replacement,0.02
+B&T,Tunnels,Queens Midtown Tunnel,Roadways and Plazas,N/A,N/A,Needs update/replacement,0.14
+B&T,Tunnels,Queens Midtown Tunnel,Utilities,N/A,N/A,Needs update/replacement,0.14
+B&T,Tunnels,Queens Midtown Tunnel,Buildings,N/A,N/A,Needs update/replacement,0.45
+MTA PD,Facilities,Facilities,Building Structure,26,Each,Percent in Poor/Marginal Condition,0.04
+MTA PD,Facilities,Facilities,Elevator,2,Each,Percent in Poor/Marginal Condition,0
+MTA PD,Facilities,Facilities,Generator,8,Each,Percent in Poor/Marginal Condition,0
+MTA PD,Facilities,Facilities,HVAC,17,Each,Percent in Poor/Marginal Condition,0
+MTA PD,Facilities,Facilities,Office,1,Each,Percent in Poor/Marginal Condition,0
+MTA PD,Facilities,Facilities,Roof,17,Each,Percent in Poor/Marginal Condition,0.06
+MTA PD,Facilities,Facilities,Other,5,Each,Percent in Poor/Marginal Condition,0
+MTA PD,Communications,Communications,Emergency Operations Control System,108,Each,Percent in Poor/Marginal Condition,0.33
+MTA PD,Communications,Communications,Radio Equipment,"2,500",Each,Percent in Poor/Marginal Condition,0
+MTA PD,Communications,Communications,Metropolitan Regional Radio System,235,Each,Percent in Poor/Marginal Condition,0
