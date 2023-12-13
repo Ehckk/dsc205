@@ -44,10 +44,10 @@ mdbf[["Month", "MDBF Value", "MDBF Goal", "MDBF Residual"]].head()
 
 fleet_type = st.radio(
     "Choose a Fleet Type", 
-    [mdbf["Fleet Type"].values]
+    [mdbf["Fleet Type"].values.unique()]
 )
 
-mdbf_data = mdbf[mdbf["Fleet Type"] == "Fleet-wide"]
+mdbf_data = mdbf[mdbf["Fleet Type"] == fleet_type]
 
 fig, ax = plt.subplots(figsize=(12, 6))
 ax.title("Mean Distance Between Failure Residuals")
