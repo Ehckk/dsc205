@@ -22,17 +22,22 @@ st.markdown(
     
     3. Where is funding being allocated?
     
-    ## Reliablity
-    
-    ### Mean Distance Between Failures
-    
+    """
+)
+
+st.markdown("## Reliablity")
+
+# MDBF
+st.markdown("### Mean Distance Between Failures")
+st.markdown(
+	"""    
 	- Metric for the aggregate distance between mechanical faliures of a train car during operation.
 	- Each train car used by the MTA:
 		- Recorded MDBF 
 		- MDBF goal 
 	- Using both of these values we can calculate the residual 
 	- How well did the fleet meet its reliability goals?
-    """
+	"""
 )
 
 mdbf = read_csv("MDBF")
@@ -41,7 +46,6 @@ mdbf["Month"] = pd.to_datetime(mdbf["Month"]).dt.strftime("%m/%Y")
 mdbf["MDBF Residual"]=(mdbf["MDBF Value"] - mdbf["MDBF Goal"]) / mdbf["MDBF Goal"]
 mdbf = mdbf.sort_values(by=['Year', 'Month'])
 mdbf[["Month", "MDBF Value", "MDBF Goal", "MDBF Residual"]].head()
-
 
 fleet_type = st.radio(
     "Choose a Fleet Type", 
@@ -58,9 +62,16 @@ ax.set_xlabel("Date")
 fig.autofmt_xdate()
 st.pyplot(fig)
 
-# st.header("Mean Distance Between Failures")
-st.markdown(
-	"""
-	
-	"""
-)
+# OTP
+st.markdown("### On-Time Performance")
+
+fig, ax = plt.subplots(figsize=(12, 6))
+
+otp_data = read_csv("on_time_performance")
+otp_data = otp_data.drop(['Month'],axis=1)
+
+st.dataframe(otp_data, use_container_width=True)
+
+sns.boxplot(y="OTP", x="Branch / Line", hue="Branch / Line", data=otp_data, ax=ax)
+fig.autofmt_xdate()
+st.pyplot(fig)
