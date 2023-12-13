@@ -41,8 +41,16 @@ mdbf["MDBF Residual"]=(mdbf["MDBF Value"] - mdbf["MDBF Goal"]) / mdbf["MDBF Goal
 mdbf = mdbf.sort_values(by=['Year', 'Month'])
 mdbf[["Month", "MDBF Value", "MDBF Goal", "MDBF Residual"]].head()
 
-fig, ax = plt.subplots(figsize=(12, 6))
+
+fleet_type = st.radio(
+    "Choose a Fleet Type", 
+    [mdbf["Fleet Type"].values]
+)
+
 mdbf_data = mdbf[mdbf["Fleet Type"] == "Fleet-wide"]
+
+fig, ax = plt.subplots(figsize=(12, 6))
+ax.title("Mean Distance Between Failure Residuals")
 ax.axhline(0, xmin=0, xmax=1, color="black")
 sns.scatterplot(x="Month", y="MDBF Residual", hue="Fleet Type", data=mdbf_data, ax=ax, zorder=100)
 ax.set_xlabel("Date")
