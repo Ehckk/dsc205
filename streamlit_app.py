@@ -107,11 +107,11 @@ accidents['Month'] = accidents['Month'].dt.strftime('%Y-%m')
 
 st.dataframe(accidents)
 
-sns.lineplot(x='Month', y='Customer_Accident_Rate', data=accidents)
+sns.lineplot(x='Month', y='Customer Accident Rate', data=accidents)
 plt.xticks(rotation=45)
 plt.xlabel('Month')
 plt.ylabel('Customer Accident Rate')
-plt.axhline(y=accidents['Customer_Accident_Rate'].mean(), color='r', linestyle='--', label='Mean')
+plt.axhline(y=accidents['Customer Accident Rate'].mean(), color='r', linestyle='--', label='Mean')
 plt.legend()
 plt.title('How do the Customer Accident Rates vary over time?', wrap=True)
 
