@@ -79,7 +79,7 @@ st.pyplot(fig)
 # Service Reliability
 st.markdown("### Train Delays")
 serv = read_csv("service_reliability")
-serv = serv[['Month', 'AvgDelayPerLateTrain']].sort_values(by='Month', inplace=True)
+serv = serv[['Month', 'AvgDelayPerLateTrain']].sort_values(by='Month')
 
 serv['Month'] = pd.to_datetime(serv['Month'], format='%m/%d/%Y')
 
