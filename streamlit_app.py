@@ -6,13 +6,11 @@ def read_csv(name):
 	url = f"./datasets"
 	filename = f"{url}/{name}.csv"
 	return pd.read_csv(filename)
-st.title('# Public Transit through Data')
+st.title('Public Transit through Data')
 
 st.markdown(
     """
-    # Public Transit through Data
-    
-    ## Questions
+    # Questions
     
     1. How reliable are the trains?
      
@@ -20,6 +18,22 @@ st.markdown(
     
     3. Where is funding being allocated?
     
+    # Reliablity
+    
+    ## Mean Distance Between Failures
+    
+    - Mean Distance Between Failures
+    	- Metric for the aggregate distance between mechanical faliures of a train car during operation.
+    	- Each train car used by the MTA:
+     		- Recorded MDBF 
+       		- MDBF goal 
+        - Using both of these values we can calculate the residual 
+        - How well did the fleet meet its reliability goals?
     """
 )
-st.header('')
+# st.header("Mean Distance Between Failures")
+st.markdown(
+	"""
+	
+	"""
+)
