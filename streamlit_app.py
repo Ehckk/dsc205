@@ -93,3 +93,20 @@ plt.ylabel('Average Delay Per Late Train (minutes)')
 plt.grid(True)
 
 st.pyplot(fig)
+
+# Customer Accidents
+fig = plt.figure((12, 6))
+accidents=read_csv("lost_time_rates")
+accidents['Month'] = pd.to_datetime(accidents['Month'], errors='coerce')
+accidents = accidents[pd.notna(accidents['Month'])]
+accidents['Month'] = accidents['Month'].dt.strftime('%Y-%m')
+    
+sns.lineplot(x='Month', y='Customer_Accident_Rate', data=accidents)
+plt.xticks(rotation=45)
+plt.xlabel('Month')
+plt.ylabel('Customer Accident Rate')
+plt.axhline(y=accidents['Customer_Accident_Rate'].mean(), color='r', linestyle='--', label='Mean')
+plt.legend()
+plt.title('How do the Customer Accident Rates vary over time?', wrap=True)
+
+st.pyplot(fig)
