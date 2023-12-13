@@ -39,21 +39,17 @@ st.markdown(
 	- How well did the fleet meet its reliability goals?
 	"""
 )
-
 mdbf = read_csv("MDBF")
 mdbf["Year"] = pd.to_datetime(mdbf["Month"]).dt.year
 mdbf["Month"] = pd.to_datetime(mdbf["Month"]).dt.strftime("%m/%Y")
 mdbf["MDBF Residual"]=(mdbf["MDBF Value"] - mdbf["MDBF Goal"]) / mdbf["MDBF Goal"]
 mdbf = mdbf.sort_values(by=['Year', 'Month'])
 mdbf[["Month", "MDBF Value", "MDBF Goal", "MDBF Residual"]].head()
-
 fleet_type = st.radio(
     "Choose a Fleet Type", 
     mdbf["Fleet Type"].unique()
 )
-
 mdbf_data = mdbf[mdbf["Fleet Type"] == fleet_type]
-
 fig, ax = plt.subplots(figsize=(12, 6))
 ax.set_title("Mean Distance Between Failure Residuals")
 ax.axhline(0, xmin=0, xmax=1, color="black")
@@ -61,60 +57,47 @@ sns.scatterplot(x="Month", y="MDBF Residual", hue="Fleet Type", data=mdbf_data, 
 ax.set_xlabel("Date")
 fig.autofmt_xdate()
 st.pyplot(fig)
+st.dataframe(mdbf_data)
 
 # OTP
 st.markdown("### On-Time Performance")
-
 fig, ax = plt.subplots(figsize=(12, 6))
-
 otp = read_csv("on_time_performance").dropna(axis=1)
 otp.drop(['Month'], axis=1, inplace=True)
-
 branch = st.radio(
       "Choose a Branch Line", 
       otp["Branch / Line"].unique()
 )
-
 otp_data = otp[otp["Branch / Line"] == branch]
-
-
 sns.boxplot(y="OTP", x="Branch / Line", data=otp_data, ax=ax)
 fig.autofmt_xdate()
-
-st.dataframe(otp_data, use_container_width=True)
 st.pyplot(fig)
+st.dataframe(otp_data, use_container_width=True)
 
 # Service Reliability
 st.markdown("### Train Delays")
 serv = read_csv("service_reliability")
 serv = serv[['Month', 'AvgDelayPerLateTrain']].sort_values(by='Month')
-
 serv['Month'] = pd.to_datetime(serv['Month'], format='%m/%d/%Y')
-
 monthly_avg_delay = serv.groupby('Month')['AvgDelayPerLateTrain'].mean()
-
 fig = plt.figure(figsize=(12, 6))
 plt.plot(monthly_avg_delay.index, monthly_avg_delay.values, marker='o', linestyle='-')
 plt.title('Average Train Delay Over Time')
 plt.xlabel('Month')
 plt.ylabel('Average Delay Per Late Train (minutes)')
 plt.grid(True)
-
 st.pyplot(fig)
+st.dataframe(serv)
 
 st.markdown("## Delays in Service")
 
 # Customer Accidents
 st.markdown("### Customer Accidents")
-
 fig = plt.figure(figsize=(12, 6))
 accidents=read_csv("lost_time_rates")
 accidents['Month'] = pd.to_datetime(accidents['Month'], errors='coerce')
 accidents = accidents[pd.notna(accidents['Month'])]
 accidents['Month'] = accidents['Month'].dt.strftime('%m/%Y')
-
-st.dataframe(accidents)
-
 lnplt = sns.lineplot(x='Month', y='Customer Accident Rate', data=accidents)
 plt.xticks(rotation=45)
 plt.xlabel('Month')
@@ -122,20 +105,16 @@ plt.ylabel('Customer Accident Rate')
 plt.axhline(y=accidents['Customer Accident Rate'].mean(), color='r', linestyle='--', label='Mean')
 plt.legend()
 plt.title('How do the Customer Accident Rates vary over time?', wrap=True)
-
 fig.autofmt_xdate()
 for label in lnplt.xaxis.get_ticklabels()[::2]:
     label.set_visible(False)
 st.pyplot(fig)
+st.dataframe(accidents)
 
 st.markdown("## Funding")
 # Debt
 st.markdown("### Debt")
-
 debt = read_csv("debt_outstanding")
-
-st.dataframe(debt)
-
 fig = plt.figure(figsize=(12, 6))
 principal_amount = debt['Principal Amount at Issuance']
 sns.histplot(principal_amount, kde=True, color='green')
@@ -146,3 +125,4 @@ plt.xlabel('Principal Amount at Issuance')
 plt.ylabel('Frequency')
 plt.title('What is the distribution of the Principal Amount at Issuance?', wrap=True)
 st.pyplot(fig)
+st.dataframe(debt)
