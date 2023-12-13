@@ -115,4 +115,5 @@ plt.axhline(y=accidents['Customer Accident Rate'].mean(), color='r', linestyle='
 plt.legend()
 plt.title('How do the Customer Accident Rates vary over time?', wrap=True)
 
+fig.autofmt_xdate()
 st.pyplot(fig)
