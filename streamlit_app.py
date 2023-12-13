@@ -104,7 +104,9 @@ accidents=read_csv("lost_time_rates")
 accidents['Month'] = pd.to_datetime(accidents['Month'], errors='coerce')
 accidents = accidents[pd.notna(accidents['Month'])]
 accidents['Month'] = accidents['Month'].dt.strftime('%Y-%m')
-    
+
+st.dataframe(accidents)
+
 sns.lineplot(x='Month', y='Customer_Accident_Rate', data=accidents)
 plt.xticks(rotation=45)
 plt.xlabel('Month')
