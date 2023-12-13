@@ -119,3 +119,19 @@ fig.autofmt_xdate()
 for label in lnplt.xaxis.get_ticklabels()[::2]:
     label.set_visible(False)
 st.pyplot(fig)
+
+st.markdown("## Funding")
+# Debt
+st.markdown("### Debt")
+
+debt = read_csv("debt_outstanding")
+fig = plt.figure(figsize=(12, 6))
+principal_amount = debt['Principal Amount at Issuance']
+sns.histplot(principal_amount, kde=True, color='green')
+median = principal_amount.median()
+plt.axvline(median, color='red', linestyle='--', label=f'Median: {median:.2f}')
+plt.legend()
+plt.xlabel('Principal Amount at Issuance')
+plt.ylabel('Frequency')
+plt.title('What is the distribution of the Principal Amount at Issuance?', wrap=True)
+st.pyplot(fig)
