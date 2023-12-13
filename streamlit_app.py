@@ -99,7 +99,7 @@ st.markdown("## Delays in Service")
 # Customer Accidents
 st.markdown("### Customer Accidents")
 
-fig = plt.figure((12, 6))
+fig = plt.figure(figsize=(12, 6))
 accidents=read_csv("lost_time_rates")
 accidents['Month'] = pd.to_datetime(accidents['Month'], errors='coerce')
 accidents = accidents[pd.notna(accidents['Month'])]
