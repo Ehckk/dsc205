@@ -125,6 +125,9 @@ st.markdown("## Funding")
 st.markdown("### Debt")
 
 debt = read_csv("debt_outstanding")
+
+st.dataframe(debt)
+
 fig = plt.figure(figsize=(12, 6))
 principal_amount = debt['Principal Amount at Issuance']
 sns.histplot(principal_amount, kde=True, color='green')
