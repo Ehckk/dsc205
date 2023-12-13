@@ -94,7 +94,11 @@ plt.grid(True)
 
 st.pyplot(fig)
 
+st.markdown("## Delays in Service")
+
 # Customer Accidents
+st.markdown("### Customer Accidents")
+
 fig = plt.figure((12, 6))
 accidents=read_csv("lost_time_rates")
 accidents['Month'] = pd.to_datetime(accidents['Month'], errors='coerce')
