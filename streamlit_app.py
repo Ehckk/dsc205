@@ -10,7 +10,16 @@ st.title('# Public Transit through Data')
 
 st.markdown(
     """
-    # 
+    # Public Transit through Data
+    
+    ## Questions
+    
+    1. How reliable are the trains?
+     
+    2. What causes major delays?
+    
+    3. Where is funding being allocated?
+    
     """
 )
-st.header('# Public Transit through Data')
+st.header('')
