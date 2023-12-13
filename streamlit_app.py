@@ -44,7 +44,7 @@ mdbf[["Month", "MDBF Value", "MDBF Goal", "MDBF Residual"]].head()
 fig, ax = plt.subplots(figsize=(12, 6))
 mdbf_data = mdbf[mdbf["Fleet Type"] == "Fleet-wide"]
 ax.axhline(0, xmin=0, xmax=1, color="black")
-sns.scatterplot(x="Month", y="MDBF Residual", hue="Fleet Type", data=df, ax=ax, zorder=100)
+sns.scatterplot(x="Month", y="MDBF Residual", hue="Fleet Type", data=mdbf_data, ax=ax, zorder=100)
 ax.set_xlabel("Date")
 fig.autofmt_xdate()
 st.pyplot(fig)
