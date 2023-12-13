@@ -107,7 +107,7 @@ accidents['Month'] = accidents['Month'].dt.strftime('%m/%Y')
 
 st.dataframe(accidents)
 
-sns.lineplot(x='Month', y='Customer Accident Rate', data=accidents)
+lnplt = sns.lineplot(x='Month', y='Customer Accident Rate', data=accidents)
 plt.xticks(rotation=45)
 plt.xlabel('Month')
 plt.ylabel('Customer Accident Rate')
@@ -116,4 +116,6 @@ plt.legend()
 plt.title('How do the Customer Accident Rates vary over time?', wrap=True)
 
 fig.autofmt_xdate()
+for label in lnplt.xaxis.get_ticklabels()[::2]:
+    label.set_visible(False)
 st.pyplot(fig)
