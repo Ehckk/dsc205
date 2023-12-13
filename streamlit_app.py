@@ -50,7 +50,7 @@ fleet_type = st.radio(
 mdbf_data = mdbf[mdbf["Fleet Type"] == fleet_type]
 
 fig, ax = plt.subplots(figsize=(12, 6))
-ax.title("Mean Distance Between Failure Residuals")
+ax.set_title("Mean Distance Between Failure Residuals")
 ax.axhline(0, xmin=0, xmax=1, color="black")
 sns.scatterplot(x="Month", y="MDBF Residual", hue="Fleet Type", data=mdbf_data, ax=ax, zorder=100)
 ax.set_xlabel("Date")
