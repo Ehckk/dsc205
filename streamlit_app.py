@@ -67,13 +67,21 @@ st.markdown("### On-Time Performance")
 
 fig, ax = plt.subplots(figsize=(12, 6))
 
-otp_data = read_csv("on_time_performance").dropna(axis=1)
-otp_data.drop(['Month'], axis=1, inplace=True)
+otp = read_csv("on_time_performance").dropna(axis=1)
+otp.drop(['Month'], axis=1, inplace=True)
+
+branch = st.radio(
+      "Choose a Branch Line", 
+      otp["Branch / Line"].unique()
+)
+
+otp_data = otp[otp["Branch / Line"] == branch]
+
+
+sns.boxplot(y="OTP", x="Branch / Line", data=otp_data, ax=ax)
+fig.autofmt_xdate()
 
 st.dataframe(otp_data, use_container_width=True)
-
-sns.boxplot(y="OTP", x="Branch / Line", hue="Branch / Line", data=otp_data, ax=ax)
-fig.autofmt_xdate()
 st.pyplot(fig)
 
 # Service Reliability
