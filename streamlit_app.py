@@ -5,6 +5,7 @@ import seaborn as sns
 
 sns.set_theme()
 
+@st.cache_data
 def read_csv(name):
 	url = f"./datasets"
 	filename = f"{url}/{name}.csv"
