@@ -67,11 +67,29 @@ st.markdown("### On-Time Performance")
 
 fig, ax = plt.subplots(figsize=(12, 6))
 
-otp_data = read_csv("on_time_performance")
-otp_data = otp_data.drop(['Month'],axis=1)
+otp_data = read_csv("on_time_performance").dropna(axis=1)
+otp_data.drop(['Month'], axis=1, inplace=True)
 
 st.dataframe(otp_data, use_container_width=True)
 
 sns.boxplot(y="OTP", x="Branch / Line", hue="Branch / Line", data=otp_data, ax=ax)
 fig.autofmt_xdate()
+st.pyplot(fig)
+
+# Service Reliability
+st.markdown("### Train Delays")
+serv = read_csv("service_reliability")
+serv = serv[['Month', 'AvgDelayPerLateTrain']].sort_values(by='Month', inplace=True)
+
+serv['Month'] = pd.to_datetime(serv['Month'], format='%m/%d/%Y')
+
+monthly_avg_delay = serv.groupby('Month')['AvgDelayPerLateTrain'].mean()
+
+fig = plt.figure(figsize=(12, 6))
+plt.plot(monthly_avg_delay.index, monthly_avg_delay.values, marker='o', linestyle='-')
+plt.title('Average Train Delay Over Time')
+plt.xlabel('Month')
+plt.ylabel('Average Delay Per Late Train (minutes)')
+plt.grid(True)
+
 st.pyplot(fig)
